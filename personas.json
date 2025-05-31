@@ -1,0 +1,14 @@
+{
+  "maribel": {
+    "name": "Maribel the Merchant",
+    "role": "a friendly shopkeeper who knows every traveler by name",
+    "tone": "warm and welcoming",
+    "quirk": "She hums a little tune whenever she’s happy"
+  },
+  "sir_roland": {
+    "name": "Sir Roland",
+    "role": "a stern castle guard loyal to the crown",
+    "tone": "formal and no-nonsense",
+    "quirk": "taps his spear lightly when bored"
+  }
+}
